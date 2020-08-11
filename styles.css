@@ -1,0 +1,145 @@
+*{
+ background-color: beige
+ font-family: serif;
+}
+ 
+p{
+ background-color: darkkhaki;
+}
+
+@media (min-width: 768px){
+ 
+header #navigation{
+ background-color: #343a40;
+ height: 60px;
+ width: 100%;
+}
+
+h1{
+ background-color: transparent;
+ color: white;
+ padding-left: 20px;
+}
+
+#heading{
+ padding: 12px auto;
+ font-size: 2.5em;
+}
+
+.header{
+ width: 80%;
+ background-color: darkkhaki;
+ text-align: center;
+ font-size: 1.5em;
+ margin: 10px auto;
+}
+
+p{
+ font-size: .8em;
+}
+ 
+ a{
+  color: black;
+ }
+ 
+ #back2top{
+  font-size: 0.5em;
+ }
+ 
+}
+
+
+/*********************************************************/
+
+
+@media (max-width: 768px)
+{
+ 
+ header #navigation{
+ background-color: #343a40;
+ height: 60px;
+ width: 100%;
+}
+
+h1{
+ background-color: transparent;
+ color: white;
+ padding-left: 20px;
+}
+
+#heading{
+ padding: 12px auto;
+ font-size: 2.5em;
+}
+
+.header{
+ width: 80%;
+ background-color: darkkhaki;
+ text-align: center;
+ font-size: 1.5em;
+ margin: 10px auto;
+}
+
+p{
+ font-size: .8em;
+}
+ 
+ .navbar-header{
+  position: absolute;
+  right: 27px;
+  top: -46px;
+ }
+ 
+ hr{
+  margin: 0px;
+ }
+ 
+ li{
+  text-align: center;
+  background-color: #343a40;
+  width: 100%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+ }
+
+ 
+.navbar-default{
+  background-color: #343a40;
+ }
+ 
+ .navbar{
+  padding: 0;
+  width: 100%;
+ }
+ 
+ header a{
+  color: white;
+  background-color: transparent;
+ }
+ 
+ main a{
+  color: black;
+ }
+ 
+ #back2top{
+  font-size: 0.5em;
+ }
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

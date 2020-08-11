@@ -1,0 +1,1 @@
+alert("The navbar toggle list links \(in the mobile devices\) might only work \(sometimes\) when clicked twice. Some jQuery glitch, couldn't help it. Sorry!")
